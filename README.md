@@ -1,2 +1,3 @@
-# PAA
-Java netbeans pendaftaran mahasiswa
+# JAVA  
+Sistem Pendaftaran Mahasiswa Peserta Calon Pengurus HMTI
+SIMPLE CRUD
